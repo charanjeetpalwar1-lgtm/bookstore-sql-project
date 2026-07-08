@@ -41,9 +41,7 @@ bookstore-sql-project
 ├── queries
 │   ├── basic_queries.sql
 │   ├── intermediate_queries.sql
-│   ├── advanced_queries.sql
-│   └── expert_queries.sql
-│
+│   
 ├── screenshots
 │
 ├── README.md
